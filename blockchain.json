@@ -1,0 +1,14 @@
+{
+  "chain": [
+    {
+      "index": 0,
+      "timestamp": "2025-10-19 10:00:00",
+      "data": "Genesis Block",
+      "previous_hash": "0",
+      "current_hash": "1e23a",
+      "nonce": 482
+    },
+    {
+      "index": 1,
+      "timestamp": "2025-10-19 10:05:00",
+      "
