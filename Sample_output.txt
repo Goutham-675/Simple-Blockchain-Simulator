@@ -1,0 +1,60 @@
+Blockchain Simulator - Menu
+1. Add Block
+2. List Blocks
+3. Export CSV
+4. Export JSON
+5. Quit
+Choose: 1
+Enter block data: Genesis Block
+Block 0 added!
+
+Blockchain Simulator - Menu
+1. Add Block
+2. List Blocks
+3. Export CSV
+4. Export JSON
+5. Quit
+Choose: 1
+Enter block data: Transaction: Rohit -> Arjun 10
+Block 1 added!
+
+Blockchain Simulator - Menu
+1. Add Block
+2. List Blocks
+3. Export CSV
+4. Export JSON
+5. Quit
+Choose: 2
+
+Blockchain:
+Index   Timestamp               Data                      Previous    Current     Nonce
+-----   ---------               ----                      --------    -------     -----
+0       2025-10-19 10:00:00     Genesis Block             0           1e23a       482
+1       2025-10-19 10:05:00     Transaction: Rohit -> Arjun 10 1e23a def456   743
+
+Blockchain Simulator - Menu
+1. Add Block
+2. List Blocks
+3. Export CSV
+4. Export JSON
+5. Quit
+Choose: 3
+CSV exported to blockchain.csv
+
+Blockchain Simulator - Menu
+1. Add Block
+2. List Blocks
+3. Export CSV
+4. Export JSON
+5. Quit
+Choose: 4
+JSON exported to blockchain.json
+
+Blockchain Simulator - Menu
+1. Add Block
+2. List Blocks
+3. Export CSV
+4. Export JSON
+5. Quit
+Choose: 5
+Exiting.
