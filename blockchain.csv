@@ -1,0 +1,3 @@
+index,timestamp,data,previous_hash,current_hash,nonce
+0,2025-10-19 10:00:00,Genesis Block,0,1e23a,482
+1,2025-10-19 10:05:00,Transaction: Rohit -> Arjun 10,1e23a,def456,743
